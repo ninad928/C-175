@@ -1,5 +1,6 @@
 var A = ["H", "Li", "Na", "K"];
 var B = ["F", "Cl", "Br", "I"];
+var C = ["O", "S", "Se"];
 
 var elementsArray = [];
 
